@@ -1,0 +1,22 @@
+{
+  "name": "Profa. Dra. Débora Carvalho — Tutora de Português e Literatura",
+  "short_name": "Profa. Débora",
+  "description": "Tutora de Português e Literatura · ENEM · Token Synthetic Language Personas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#6D1A36",
+  "theme_color": "#6D1A36",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
